@@ -1,0 +1,23 @@
+{
+  "name": "telegram-web-app",
+  "version": "0.0.0",
+  "description": "Telegram Web App API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Lewandowski <me@vovaspace.com> (https://vovaspace.com/)",
+  "homepage": "https://github.com/vovaspace/telegram-web-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vovaspace/telegram-web-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vovaspace/telegram-web-app/issues"
+  },
+  "keywords": [
+    "Telegram",
+    "Telegram Web App",
+    "API"
+  ]
+}
